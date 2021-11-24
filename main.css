@@ -20,26 +20,20 @@
     
 }
 .btn1{
-    width: 260px;
+    width: 120Px;
     height: 50px;
-    
 }
 
 .btn2{
     width: 260px;
     height: 150px;
-    
 }
 
-.calscreen{
+
+
+.screen{
     width: 260px;
-    height: 100px;
-    border: solid;
+    height: 150px;
     background-color: white;
-
-}
-.rowbord{
-    
     border: solid;
-   
 }
